@@ -1,0 +1,11 @@
+# I know this is not the best place to keep a key, sorry
+ownerproof
+
+# various names given to input files
+**/*.txt
+**/*input
+**/real
+**/prod
+
+# executables
+**/*.out

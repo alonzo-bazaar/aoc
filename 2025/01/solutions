@@ -1,0 +1,4 @@
+CL-USER> (solution-1 "input.txt")
+1055 (11 bits, #x41F)
+CL-USER> (solution-2 "input.txt")
+6386 (13 bits, #x18F2)
